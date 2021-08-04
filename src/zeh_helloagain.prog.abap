@@ -6,3 +6,4 @@
 REPORT ZEH_HELLOAGAIN.
 
 write: / 'Hello again'.
+write: / 'Und tschuess'.
